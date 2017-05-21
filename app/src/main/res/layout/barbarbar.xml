@@ -1,0 +1,22 @@
+
+<fatty.a44attr.ViewTopBar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:Bar="http://schemas.android.com/apk/res-auto"
+
+    android:id="@+id/topBar"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+
+    Bar:leftBackground="@color/whtie"
+    Bar:leftText="Back"
+    Bar:leftTextColor="@color/brown"
+
+    Bar:rightBackground="@color/whtie"
+    Bar:rightText="More"
+    Bar:rightTextColor="@color/brown"
+    
+    Bar:title="Title"
+    Bar:titleTextColor="#FFFFFF"
+    Bar:titleTextSize="6sp">
+
+</fatty.a44attr.ViewTopBar>
